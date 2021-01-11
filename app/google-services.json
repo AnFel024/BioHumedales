@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1059928262815",
+    "firebase_url": "https://bioprueba-d8678.firebaseio.com",
+    "project_id": "bioprueba-d8678",
+    "storage_bucket": "bioprueba-d8678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059928262815:android:72fba43e6bd998a5a33aaa",
+        "android_client_info": {
+          "package_name": "com.constantup.biofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059928262815-sstju1a82mhsguhr0q591rphsdf56nkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.constantup.biofinal",
+            "certificate_hash": "f67661e646e1331e5241b1fbcec06c17b30c03d3"
+          }
+        },
+        {
+          "client_id": "1059928262815-i3td357hmi633vds9he9vgkro7gqsbm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIfSe04MKrUsW3WC6m_y-Y4JmK1xabhOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059928262815-i3td357hmi633vds9he9vgkro7gqsbm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

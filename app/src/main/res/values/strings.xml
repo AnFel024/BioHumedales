@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BioHumedales</string>
+    <string name="menu_mapa">Mapa</string>
+    <string name="menu_inicio">Humedales</string>
+    <string name="menu_CRUD">Agregar</string>
+    <string name="menu_Update">Modificando…</string>
+    <string name="item_share">Compartir</string>
+    <string name="item_detalles">Detalles</string>
+    <string name="item_mapa">Ver en mapa</string>
+    <string name="item_menu">Spinner</string>
+    <string name="item_nombre">Nombre</string>
+    <string name="item_img">Ruta de Imagen</string>
+    <string name="item_X">Punto X</string>
+    <string name="item_Y">Punto Y</string>
+    <string name="item_tam">Tamaño</string>
+    <string name="item_ub">Ubicacion</string>
+</resources>

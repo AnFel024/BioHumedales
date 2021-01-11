@@ -1,0 +1,7 @@
+# Default ignored files
+*.apk
+/shelf/
+/workspace.xml
+/app/src/debug/res/values/google_maps_api.xml
+/app/src/release/res/values/google_maps_api.xml
+/app/build/generated/res/google-services/debug/values/values.xml
