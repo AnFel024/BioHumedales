@@ -108,14 +108,11 @@ public class MainActivity extends AppCompatActivity {
                     }
                 }
             },2000);
-<<<<<<< HEAD
-=======
+            }
+            
     public void onBackPressed() {
         if(band_salir == 0) {
-            Toast.makeText(this, "Presina ATRAS para salir de la app", Toast.LENGTH_SHORT).show();
->>>>>>> 5044be0 (Cambio de nombre de la app, y se añade la funcion de salir presionando el boton -Volver-)
-=======
->>>>>>> a541e45 (Solucionando y creando bugs)
+            Toast.makeText(this, "Presina ATRAS para salir de la app", Toast.LENGTH_SHORT).show();(Solucionando y creando bugs)
             band_salir++;
         }
 
@@ -125,10 +122,6 @@ public class MainActivity extends AppCompatActivity {
             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             startActivity(intent);
             System.exit(0);
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> a541e45 (Solucionando y creando bugs)
         } */
     }
 }
