@@ -6,14 +6,14 @@ import java.util.UUID;
 
 @Parcel
 public class Item {
-    private String Id_Item;
-    private String Img_ruta;
-    private String Nombre;
-    private String Ubicacion;
-    private String Tam;
-    private String Punto_X;
-    private String Punto_Y;
-    private String Detalles;
+    String Id_Item;
+    String Img_ruta;
+    String Nombre;
+    String Ubicacion;
+    String Tam;
+    String Punto_X;
+    String Punto_Y;
+    String Detalles;
 
     public Item(String id_Item, String img_ruta, String nombre, String ubicacion, String tam,
                 String punto_X, String punto_Y, String detalles) {
