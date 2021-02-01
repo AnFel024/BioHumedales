@@ -14,4 +14,5 @@
     <string name="item_Y">Punto Y</string>
     <string name="item_tam">Tamaño</string>
     <string name="item_ub">Ubicacion</string>
+    <string name="frg_unab">Esta vista requiere de una API Key privativa de Google. <br> </br> Para mas informacion consulte <a href="https://developers.google.com/maps/documentation/maps-static/start">el uso de API KEY de Google Cloud Platform</a>. <br> </br>Si desea ver la aplicacion finalizada, puede descargar el archivo .apk <a href="http://localhost/">aqui</a></string>
 </resources>
